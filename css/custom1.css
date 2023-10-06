@@ -1,0 +1,54 @@
+.menu{
+    padding: 2px 0; 
+    position: relative;
+    background: rgb(99, 224, 224);
+ }
+ 
+ .menu a {
+    color: black;
+ }
+ 
+ .banner-menu{
+    background: rgb(246, 242, 153);
+    padding-top: 20px;
+ }
+ 
+ .banner-menu .img-destaque{
+    max-width: 350px;
+ }
+ 
+ .banner-menu h1{
+    color:#202a65;
+ }
+ 
+ .banner-menu h2{
+    color:#202a65;
+ }
+ 
+ .projetos .img-destaque{
+    max-width: 400px;
+ }
+ 
+ .habilidades p{
+    color:#202a65;
+ }
+ 
+ .habilidades h2{
+    color:#202a65;
+ }
+ 
+ .rodape{
+    color: #fff;
+    background: #414142;
+    padding-top: 2px;
+   }
+ 
+ .nav-item{
+    font-size: 20px;
+ }
+ 
+ .rodape a {
+    color: #fff;  
+ }
+ 
+ 
